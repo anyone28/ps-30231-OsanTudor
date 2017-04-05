@@ -1,1 +1,3 @@
-# ps-30231-OsanTudor
+# Proiectare Software
+Osan Tudor
+Grupa 30231
